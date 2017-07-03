@@ -1,0 +1,284 @@
+Microsoft Windows [Version 10.0.14393]
+(c) 2016 Microsoft Corporation. All rights reserved.
+
+C:\Users\Yealim>cd desktop
+
+C:\Users\Yealim\Desktop>cd introCS
+
+C:\Users\Yealim\Desktop\introCS>cd1
+'cd1'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+배치 파일이 아닙니다.
+
+C:\Users\Yealim\Desktop\introCS>cd 1
+
+C:\Users\Yealim\Desktop\introCS\1>text1-1
+Hi my name is yejin
+C:\Users\Yealim\Desktop\introCS\1>cd 2
+
+C:\Users\Yealim\Desktop\introCS\1\2>text2-1
+I'm 23 years old
+my major is department of painting
+
+C:\Users\Yealim\Desktop\introCS\1\2>text2-2
+나는 3학년이다
+나는 2015에 입학했다
+
+C:\Users\Yealim\Desktop\introCS\1\2>cd 3
+
+C:\Users\Yealim\Desktop\introCS\1\2\3>text3-1
+세번째에서 첫번째 텍스트파일
+
+C:\Users\Yealim\Desktop\introCS\1\2\3>text3-2
+세번째에서 두번째 텍스트파일
+
+C:\Users\Yealim\Desktop\introCS\1\2\3>text3-3
+세번째에서 세번째 텍스트파일
+
+C:\Users\Yealim\Desktop\introCS\1\2\3>cd 4
+
+C:\Users\Yealim\Desktop\introCS\1\2\3\4>text4-1
+네번째에서 첫번째 텍스트파일
+배가고프다 허허
+
+C:\Users\Yealim\Desktop\introCS\1\2\3\4>text4-2
+네번째에서 두번째 텍스트파일
+배가고프다 후후
+
+C:\Users\Yealim\Desktop\introCS\1\2\3\4>text403
+'text403'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+배치 파일이 아닙니다.
+
+C:\Users\Yealim\Desktop\introCS\1\2\3\4>text4-3
+네번째에서 세번째 텍스트파일
+배가고프다 캬캬
+
+C:\Users\Yealim\Desktop\introCS\1\2\3\4>text4-4
+네번째에서 네번째 텍스트파일
+배가고프다 뀨뀨
+
+C:\Users\Yealim\Desktop\introCS\1\2\3\4>cd 5
+
+C:\Users\Yealim\Desktop\introCS\1\2\3\4\5>text5-1
+다섯번째에서 첫번째 텍스트파일
+이렇게 하는거 맞겠지
+
+C:\Users\Yealim\Desktop\introCS\1\2\3\4\5>text5-2
+다섯번째에서 두번째 텍스트파일
+만약에 이렇게 하는거 아니면 어캄
+
+C:\Users\Yealim\Desktop\introCS\1\2\3\4\5>text5-3
+다섯번째에서 세번째 텍스트파일
+재밌군
+
+C:\Users\Yealim\Desktop\introCS\1\2\3\4\5>text5-4
+다섯번째에서 네번째 텍스트파일
+쉬마려옹
+
+C:\Users\Yealim\Desktop\introCS\1\2\3\4\5>text5-5
+다섯번째에서 다섯번째 텍스트파일
+초파리가 왜케 많노
+
+C:\Users\Yealim\Desktop\introCS\1\2\3\4\5>cd..
+
+C:\Users\Yealim\Desktop\introCS\1\2\3\4>cd..
+
+C:\Users\Yealim\Desktop\introCS\1\2\3>cd..
+
+C:\Users\Yealim\Desktop\introCS\1\2>cd..
+
+C:\Users\Yealim\Desktop\introCS\1>cd..
+
+C:\Users\Yealim\Desktop\introCS>git init
+Reinitialized existing Git repository in C:/Users/Yealim/Desktop/introCS/.git/
+
+C:\Users\Yealim\Desktop\introCS>git config --global user.name "yejin12345"
+
+C:\Users\Yealim\Desktop\introCS>git config --global user.email "yej3584@naver.com"
+
+C:\Users\Yealim\Desktop\introCS>od ~/intro-CS
+'od'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+배치 파일이 아닙니다.
+
+C:\Users\Yealim\Desktop\introCS>cd ~/intro-CS
+지정된 경로를 찾을 수 없습니다.
+
+C:\Users\Yealim\Desktop\introCS>cd intro-CS
+지정된 경로를 찾을 수 없습니다.
+
+C:\Users\Yealim\Desktop\introCS>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\Yealim\Desktop\introCS>$ git init
+'$'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+배치 파일이 아닙니다.
+
+C:\Users\Yealim\Desktop\introCS>git init
+Reinitialized existing Git repository in C:/Users/Yealim/Desktop/introCS/.git/
+
+C:\Users\Yealim\Desktop\introCS>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\Yealim\Desktop\introCS>git init
+Reinitialized existing Git repository in C:/Users/Yealim/Desktop/introCS/.git/
+
+C:\Users\Yealim\Desktop\introCS>git remote add {introCS} http://github.com/{yejin12345}/{intro-CS}.git
+
+C:\Users\Yealim\Desktop\introCS>git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+
+C:\Users\Yealim\Desktop\introCS>git add .
+
+C:\Users\Yealim\Desktop\introCS>git commit -m "1주차과제"
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\Yealim\Desktop\introCS>git pull {intro-CS} master
+fatal: '{intro-CS}' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+C:\Users\Yealim\Desktop\introCS>git pull {introCS} master
+fatal: unable to access 'http://github.com/{yejin12345}/{intro-CS}.git/': The requested URL returned error: 400
+
+C:\Users\Yealim\Desktop\introCS>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\Yealim\Desktop\introCS>git init
+Reinitialized existing Git repository in C:/Users/Yealim/Desktop/introCS/.git/
+
+C:\Users\Yealim\Desktop\introCS>git remote add {introCS} http://github.com/{yejin12345}/{introCS}.git
+fatal: remote {introCS} already exists.
+
+C:\Users\Yealim\Desktop\introCS>git remote add {introCS} http://github.com/{yejin12345}/{intro-CS}.git
+fatal: remote {introCS} already exists.
+
+C:\Users\Yealim\Desktop\introCS>git add .
+
+C:\Users\Yealim\Desktop\introCS>git commit -m "1주차과제"
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\Yealim\Desktop\introCS>git init
+Reinitialized existing Git repository in C:/Users/Yealim/Desktop/introCS/.git/
+
+C:\Users\Yealim\Desktop\introCS>git remote add {intro-CS} https://github.com/{yejin12345}/{introCS}.git
+
+C:\Users\Yealim\Desktop\introCS>git add .
+
+C:\Users\Yealim\Desktop\introCS>git commit -m "1주차과제"
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\Yealim\Desktop\introCS>git init
+Reinitialized existing Git repository in C:/Users/Yealim/Desktop/introCS/.git/
+
+C:\Users\Yealim\Desktop\introCS>git add *
+
+C:\Users\Yealim\Desktop\introCS>git commit -m "1주 과제"
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\Yealim\Desktop\introCS>git push origin master
+To https://github.com/yejin12345/intro-CS.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/yejin12345/intro-CS.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+C:\Users\Yealim\Desktop\introCS>git push --help
+
+C:\Users\Yealim\Desktop\introCS>cd..
+
+C:\Users\Yealim\Desktop>cd 1주차과제
+
+C:\Users\Yealim\Desktop\1주차과제>git init
+Reinitialized existing Git repository in C:/Users/Yealim/Desktop/1주차과제/.git/
+
+C:\Users\Yealim\Desktop\1주차과제>git remote add {origin} https://github.com/{yejin12345}/{introCS}.git
+
+C:\Users\Yealim\Desktop\1주차과제>git add .
+
+C:\Users\Yealim\Desktop\1주차과제>git commit -m "1주차과제"
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\Yealim\Desktop\1주차과제>git remote add {1주차과제} https://github.com/{yejin12345}/{introCS}.git
+
+C:\Users\Yealim\Desktop\1주차과제>git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+
+C:\Users\Yealim\Desktop\1주차과제>git add .
+
+C:\Users\Yealim\Desktop\1주차과제>
+C:\Users\Yealim\Desktop\1주차과제>git commit -m "{1주차과제}"
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\Yealim\Desktop\1주차과제>git init
+Reinitialized existing Git repository in C:/Users/Yealim/Desktop/1주차과제/.git/
+
+C:\Users\Yealim\Desktop\1주차과제>git remote add origin https://github.com/yejin12345/introCS.git
+fatal: remote origin already exists.
+
+C:\Users\Yealim\Desktop\1주차과제>git remote add 1주차과제 https://github.com/yejin12345/introCS.git
+
+C:\Users\Yealim\Desktop\1주차과제>git add .
+
+C:\Users\Yealim\Desktop\1주차과제>git commit -m "1주차과제"
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\Yealim\Desktop\1주차과제>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\Yealim\Desktop\1주차과제>vim README
+'vim'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+배치 파일이 아닙니다.
+
+C:\Users\Yealim\Desktop\1주차과제>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\Yealim\Desktop\1주차과제>cd 1
+
+C:\Users\Yealim\Desktop\1주차과제\1>dir
+ C 드라이브의 볼륨에는 이름이 없습니다.
+ 볼륨 일련 번호: 8CCD-064A
+
+ C:\Users\Yealim\Desktop\1주차과제\1 디렉터리
+
+2017-06-30  오후 07:25    <DIR>          .
+2017-06-30  오후 07:25    <DIR>          ..
+2017-06-30  오후 07:25    <DIR>          2
+2017-06-30  오후 04:43                84 text1-1.c
+2017-06-30  오후 05:34            30,428 text1-1.exe
+               2개 파일              30,512 바이트
+               3개 디렉터리   5,552,791,552 바이트 남음
+
+C:\Users\Yealim\Desktop\1주차과제\1>cd..
+
+C:\Users\Yealim\Desktop\1주차과제>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\Yealim\Desktop\1주차과제>
+
+
+
+
+https://drive.google.com/drive/folders/0B0TK-agAmfmPRGZ2Sm9Md2FXa2M?usp=sharing
